@@ -1,5 +1,5 @@
 <?php 
-$dsn='mysql:host=localhost;dbname=users';
+$dsn='mysql:host=192.168.1.3;dbname=users';
 // this is variable to put data to connect with database;
 // host ==> السيرفر المتصل عليه /=> ex:- host=localhost;
 // dbname ==> اسم قاعدة البيانات اللى هتصل بيها
